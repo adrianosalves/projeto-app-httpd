@@ -102,6 +102,6 @@ Note que o ip da maquina é **192.168.1.107**.
 
 Agora vou acessar minha aplicação pelo navegador.
 
-![Screenshot](Meu_Projeto_App_HTTP.JPG)
+![Screenshot](Meu_Projeto_App_HTTP.jpg)
 
 
